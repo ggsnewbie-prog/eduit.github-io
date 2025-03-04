@@ -1,2 +1,2 @@
-# eduit.github-io
+# eduit.github-io.github.io
 EduIT
